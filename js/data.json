@@ -89,24 +89,5 @@
             "title" : "Photoshop",
             "prec" : "80%"
         }
-    ], "social" : [
-        {
-            "id" : 1,
-            "icon" : "icon fa fa-facebook fa-lg",
-            "title" : "Follow me on",
-            "body" : "social FaceBook"
-        },
-        {
-            "id" : 2,
-            "icon" : "icon fa fa-twitter fa-lg",
-            "title" : "Tweet Me on",
-            "body" : "Social twitter"
-        },
-        {
-            "id" : 3,
-            "icon" : "icon fa fa-pinterest fa-lg",
-            "title" : "Pin Me on",
-            "body" : "Social Pinterest"
-        }
     ]
 }
